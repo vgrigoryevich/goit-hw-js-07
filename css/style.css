@@ -1,0 +1,16 @@
+.gallery {
+    display: flex;
+    margin: 0 auto;
+    max-width: 940px;
+
+
+  }
+  .gallery-item {
+    display: flex;
+    width: 300px;
+    margin-left: 10px;
+
+  }
+  .gallery-img {
+    width: 100%;
+  }
